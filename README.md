@@ -3,11 +3,11 @@ Palette is a casual single-player game which goal is to paint as long as possibl
 # App Specifications
 Palette is built using Unity 2018.3.1f1 
 # Features
-Palette allows the users to:
-    - Draw the painttrail with their fingers
-    - Acquire powerups to change the painttrail's color, slow the speed of the game and change the size of the painttrail
-    - Save new high score
-    - Mute and change the volume of background music and SFX
+Palette allows the users to
+    Draw the painttrail with their fingers
+ 	Acquire powerups to change the painttrail's color, slow the speed of the game and change the size of the painttrail
+	Save new high score
+	Mute and change the volume of background music and SFX
 # Views
 
 **Menu scene**
